@@ -8,18 +8,18 @@ RangeSlider uses React Native's Animated library to transform thumbs / label / s
 These optimizations help to achieve as much native look & feel as possible using only the JS layer.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/githuboftigran/rn-range-slider/master/demo.gif" width="369" height="195">
+<img src="https://raw.githubusercontent.com/boma25/range-slider-react-native/master/demo.gif" width="369" height="195">
 </p>
 
 #### Version 1
 The version 1 was using native Android and iOS views.<br/>
 That gives native look & feel in favor of flexibility.<br/>
-You can find the version 1 [here](https://github.com/githuboftigran/rn-range-slider/tree/v1).
+You can find the version 1 [here](https://github.com/githuboftigran/rn-range-slider/tree/v1)
 
 ## Installation
 
-* npm: `npm install --save rn-range-slider`
-* yarn: `yarn add rn-range-slider`
+* npm: `npm install --save range-slider-react-native`
+* yarn: `yarn add range-slider-react-native`
 
 ## Usage
 
@@ -31,7 +31,7 @@ You can find basic implementation of needed components (Thumb, Rail, RailSelecte
 ```
 ...
 
-import RangeSlider from 'rn-range-slider';
+import RangeSlider from 'range-slider-react-native';
 
 ...
 
