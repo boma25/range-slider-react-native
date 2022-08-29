@@ -1,7 +1,7 @@
 {
 	"name": "range-slider-react-native",
 	"version": "1.0.0",
-	"author": "Boma Amakiri <mail.of.boma@gmail.com>",
+	"author": "Boma Amakiri <mail.of.amakirisamuelboma@gmail.com>",
 	"description": "A highly optimized pure JS implementation of Range Slider for React Native originally implemented by Tigran Sahakyan <mail.of.tigran@gmail.com>",
 	"homepage": "https://github.com/boma25/range-slider-react-native",
 	"main": "index.js",
