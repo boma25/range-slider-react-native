@@ -1,0 +1,35 @@
+{
+	"name": "range-slider-react-native",
+	"version": "1.0.0",
+	"author": "Boma Amakiri <mail.of.boma@gmail.com>",
+	"description": "A highly optimized pure JS implementation of Range Slider for React Native originally implemented by Tigran Sahakyan <mail.of.tigran@gmail.com>",
+	"homepage": "https://github.com/boma25/range-slider-react-native",
+	"main": "index.js",
+	"scripts": {
+		"test": ""
+	},
+	"keywords": [
+		"react",
+		"native",
+		"react-native",
+		"react-component",
+		"react-native-component",
+		"android",
+		"ios",
+		"custom",
+		"range",
+		"slider",
+		"seekbar",
+		"range slider",
+		"range slider react-native"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/boma25/range-slider-react-native.git"
+	},
+	"dependencies": {
+		"deprecated-react-native-prop-types": "^2.3.0"
+	},
+	"devDependencies": {},
+	"license": "MIT"
+}
